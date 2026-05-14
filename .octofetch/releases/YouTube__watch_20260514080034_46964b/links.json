@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9062",
+  "folder": "YouTube__watch_20260514080034_46964b",
+  "base_name": "Online_Shop_Android_Studio_Project_Jetpack_Compose_Firebase_-_Single_A_ZQ2YJNNb1jY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/HamedSahari/Cloud-Downloads-1/releases/tag/co-releases-v1-9062",
+  "files": [
+    {
+      "name": "Online_Shop_Android_Studio_Project_Jetpack_Compose_Firebase_-_Single_A_ZQ2YJNNb1jY_720p.mp4",
+      "url": "https://github.com/HamedSahari/Cloud-Downloads-1/releases/download/co-releases-v1-9062/Online_Shop_Android_Studio_Project_Jetpack_Compose_Firebase_-_Single_A_ZQ2YJNNb1jY_720p.mp4",
+      "api_url": "https://api.github.com/repos/HamedSahari/Cloud-Downloads-1/releases/assets/419993178",
+      "id": 419993178,
+      "size": 534843675,
+      "download_count": 0
+    }
+  ]
+}
