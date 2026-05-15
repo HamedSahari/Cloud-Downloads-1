@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7268",
+  "folder": "YouTube__watch_20260515185503_39196f",
+  "base_name": "(part_1-1_)_Ip_Jr87IQ8g_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/HamedSahari/Cloud-Downloads-1/releases/tag/co-releases-v1-7268",
+  "files": [
+    {
+      "name": "part_1-1_._Ip_Jr87IQ8g_720p.mp4",
+      "url": "https://github.com/HamedSahari/Cloud-Downloads-1/releases/download/co-releases-v1-7268/part_1-1_._Ip_Jr87IQ8g_720p.mp4",
+      "api_url": "https://api.github.com/repos/HamedSahari/Cloud-Downloads-1/releases/assets/421233886",
+      "id": 421233886,
+      "size": 95996565,
+      "download_count": 0
+    }
+  ]
+}
