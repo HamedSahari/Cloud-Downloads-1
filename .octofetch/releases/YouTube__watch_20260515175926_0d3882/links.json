@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1535",
+  "folder": "YouTube__watch_20260515175926_0d3882",
+  "base_name": "HWCEvQWLpqs_HWCEvQWLpqs_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/HamedSahari/Cloud-Downloads-1/releases/tag/co-releases-v1-1535",
+  "files": [
+    {
+      "name": "HWCEvQWLpqs_HWCEvQWLpqs_720p.mp4",
+      "url": "https://github.com/HamedSahari/Cloud-Downloads-1/releases/download/co-releases-v1-1535/HWCEvQWLpqs_HWCEvQWLpqs_720p.mp4",
+      "api_url": "https://api.github.com/repos/HamedSahari/Cloud-Downloads-1/releases/assets/421200375",
+      "id": 421200375,
+      "size": 186815046,
+      "download_count": 0
+    }
+  ]
+}
