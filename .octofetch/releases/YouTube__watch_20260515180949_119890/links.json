@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7090",
+  "folder": "YouTube__watch_20260515180949_119890",
+  "base_name": "eogfy_TjzXo_eogfy_TjzXo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/HamedSahari/Cloud-Downloads-1/releases/tag/co-releases-v1-7090",
+  "files": [
+    {
+      "name": "eogfy_TjzXo_eogfy_TjzXo_720p.mp4",
+      "url": "https://github.com/HamedSahari/Cloud-Downloads-1/releases/download/co-releases-v1-7090/eogfy_TjzXo_eogfy_TjzXo_720p.mp4",
+      "api_url": "https://api.github.com/repos/HamedSahari/Cloud-Downloads-1/releases/assets/421206656",
+      "id": 421206656,
+      "size": 108197926,
+      "download_count": 0
+    }
+  ]
+}
